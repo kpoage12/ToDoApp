@@ -1,5 +1,6 @@
 {
   "name": "todo-list-tutorial",
+  "homepage": "https://kpoage12.github.io/ToDoApp/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

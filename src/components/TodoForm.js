@@ -14,7 +14,7 @@ const TodoForm = ({ addTodo }) => {
         type="text"
         className="tgitodo-input"
         value={value}
-        placeholder="What is the task today?"
+        placeholder="Enter a task"
         onChange={(e) => {
           setValue(e.target.value);
         }}
