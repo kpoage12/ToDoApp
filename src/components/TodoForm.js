@@ -12,7 +12,7 @@ const TodoForm = ({ addTodo }) => {
     <form className="TodoForm" onSubmit={handleSubmit}>
       <input
         type="text"
-        className="todo-input"
+        className="tgitodo-input"
         value={value}
         placeholder="What is the task today?"
         onChange={(e) => {
